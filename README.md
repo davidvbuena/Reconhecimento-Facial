@@ -2,8 +2,6 @@
 
 Este repositório foi criado com a finalidade de compartilhar os algoritmos desenvolvidos durante o trabalho de mestrado intitulado "**Comparação de Técnicas de Reconhecimento Facial para Identificação de Presença em um Ambiente Real e Semicontrolado**", com o objetivo de facilitar e tornar possíveis futuras replicações dos experimentos realizados.
 
-O trabalho desenvolvido faz parte da linha de pesquisa de "**Monitoramento de Presença**" do projeto "**Ensino e Monitoramento de Atividades Físicas via Técnicas de Inteligência Artificial**" (Processo 2014.1.923.86.4, publicado no DOE 125(45), em 10/03/2015), realizado conjuntamente pela **Universidade de São Paulo**, **Faculdade Campo Limpo Paulista** e **Academia Central Kungfu-Wushu**.
-
 Basicamente foram utilizados os algoritmos:
 
  * **[Viola-Jones](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)**
@@ -48,9 +46,3 @@ Cabe aqui ressaltar que os algoritmos de detecção e reconhecimento facial util
 A documentação do projeto FaceRecognition pode ser acessada aqui: [![FaceRecognition Docs](https://img.shields.io/badge/documentation-FaceRecognition-blue.svg)](https://kelvins.github.io/Reconhecimento-Facial/build/html/index.html)
 
 Outros documentos relacionados aos demais códigos e ao repositório em geral podem ser encontrados na **[Wiki](../../wiki)**.
-
-----------------------
-
-### Dúvidas
-
-Eventuais dúvidas sobre os algoritmos ou sobre a pesquisa podem ser esclarecidas através do e-mail **kelvinpfw@hotmail.com**
